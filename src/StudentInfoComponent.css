@@ -1,0 +1,9 @@
+.table {
+   width: 100%;
+   /* border-collapse: collapse; */
+   /* border: 2px solid #212121; */
+   outline: 2px solid #212121;
+   
+   border-radius: 2pt;
+   box-shadow: 0 0 0 1pt grey;
+}
